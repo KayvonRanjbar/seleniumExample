@@ -1,0 +1,14 @@
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/tests.deps.json
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.json
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.dev.json
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/tests.dll
+/Users/kayvonranjbar/dev/seleniumExample/tests/bin/Debug/netcoreapp2.1/tests.pdb
+/Users/kayvonranjbar/dev/seleniumExample/tests/obj/Debug/netcoreapp2.1/tests.csprojAssemblyReference.cache
+/Users/kayvonranjbar/dev/seleniumExample/tests/obj/Debug/netcoreapp2.1/tests.csproj.CoreCompileInputs.cache
+/Users/kayvonranjbar/dev/seleniumExample/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfoInputs.cache
+/Users/kayvonranjbar/dev/seleniumExample/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfo.cs
+/Users/kayvonranjbar/dev/seleniumExample/tests/obj/Debug/netcoreapp2.1/tests.dll
+/Users/kayvonranjbar/dev/seleniumExample/tests/obj/Debug/netcoreapp2.1/tests.pdb
